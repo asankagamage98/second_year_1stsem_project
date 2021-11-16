@@ -1,0 +1,106 @@
+
+body{
+    background-color:#192a56;
+    
+}
+
+.imgs {
+		width:532px;
+	     height:678px;
+		
+}
+.div1 {
+    top:8px;
+    width: 800px;
+    height:678px;
+    background-color:#dcdde1 ;
+    position: absolute;
+    left:540px;
+    
+  
+}
+.div1 h1{
+		padding-bottom:20px;
+	    border-bottom: 6px solid #192a56;
+	
+	
+}
+
+.lables {
+    margin-top: 20px;
+    position: absolute;
+    left: 80px;
+    font-size: 18px;
+    width: 250px;
+}
+.text2 {
+    position: absolute;
+    left:120px;
+    font-size:18px;
+    width:140px;
+    
+}
+.lable2{
+    position: absolute;
+    top: 30px;
+    margin-left: 120px;
+    width: 140px;
+}    
+
+
+.text3 {
+    position: absolute;
+    left:300px;
+    font-size: 18px;
+    width:140px;
+
+
+}
+  
+.text4 {
+    position: absolute;
+    left:480px;
+    font-size:18px;
+    width:140px;
+}
+.add1 {
+    position: absolute;
+    left:120px;
+    font-size: 18px;
+     width:320px;
+}
+.addlable1 {
+    position: absolute;
+    top: 94px;
+    margin-left: 120px;
+    width: 140px;
+}
+.addlable2 {
+    position: absolute;
+    top: 155px;
+    margin-left: 120px;
+    width: 165px;
+}
+.lable4 {
+     position: absolute;
+     top:221px;
+    margin-left: 120px;
+    width: 140px;
+}
+.test4 {
+    position: absolute;
+    left:300px;
+    font-size: 18px;
+    width:140px;
+    
+}
+.btn1 {
+    background-color: rgb(7, 209, 7);
+    color: white;
+    font-size: 15px;
+    margin-left: 120px;
+    padding: 9px;
+    width:200px;
+    border-radius: 5px;
+
+}
